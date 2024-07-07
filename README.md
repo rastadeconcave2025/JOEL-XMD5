@@ -4,7 +4,7 @@
  <img alt="JOEL XMD5 BOT" height="300" src="https://telegra.ph/file/0bc8a3f6e4e684addb141.jpg">
   
 <h1 align="center"> joel-tech  </h1> 
-<p align="center">l introduce <b>kjoel xmd</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l introduce <b>joel xmd</b>, a powerful simple WhatsApp bot </p>
 
 
 <p align="center">
@@ -26,6 +26,7 @@
 
 <a href="https://github.com/rastadeconcave2025/JOEL-XMD5/forks"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
+star✨ my repo if you like this bot🤖
 
 
 ## 2.SECOND STEP 
