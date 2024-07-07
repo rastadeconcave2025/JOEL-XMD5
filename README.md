@@ -1,14 +1,14 @@
-##  JOEL XMD
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+king+joel+md+Created+by+joelkang'oma.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+##  JOEL XMD5
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+joel+x+md+Created+by+joelkang'oma.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M">
- <img alt="JOEL BIG BOT" height="300" src="https://telegra.ph/file/0bc8a3f6e4e684addb141.jpg">
+ <img alt="JOEL XMD5 BOT" height="300" src="https://telegra.ph/file/0bc8a3f6e4e684addb141.jpg">
   
 <h1 align="center"> joel-tech  </h1> 
-<p align="center">l introduce <b>king joel md</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l introduce <b>kjoel xmd</b>, a powerful simple WhatsApp bot </p>
 
 
 <p align="center">
-  <a href="https://github.com/jokathanjoka/KING-JOEL-MD/edit/main/README.md#king-joel-md">
+  <a href="https://github.com/jokathanjoka/JOEL-X-MD/edit/main/README.md#joel-joel-xmd">
     
   </a>
 </p>
@@ -21,9 +21,14 @@
 ---
 
 
-<a href="https://github.com/jokathanjoka/JOEL-XMD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+## 1.FIRST STEP 
 
 
+<a href="https://github.com/rastadeconcave2025/JOEL-XMD5/forks"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+
+
+
+## 2.SECOND STEP 
 
 
  GET SESSION ID BY
@@ -34,6 +39,10 @@
  
 
 <a href=""><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+
+
+## 3.THIRD STEP 
+
 
 DEPLOY ON 
 
